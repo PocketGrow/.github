@@ -37,19 +37,20 @@ Her is the [link](https://drive.google.com/file/d/1D9VnVlOrnf36frvaY7sOnzBJxV0Sg
   - TensorFlow
   - Python
 
-- **Mobile Development:**
-  - Android Studio
-  - Kotlin
-  - Figma
-
 - **Cloud Computing:**
   - ExpressJS
   - Prisma
   - Cloud Run
   - Cloud SQL
 
-## Architekture Overview
+- **Mobile Development:**
+  - Android Studio
+  - Kotlin
+  - Figma
+
 <!--
+## Architekture Overview
+
 <p align="center">
   <img src="https://github.com/azvadennys/iFiCam-C23-PS113-Bangkit/blob/f7421b6ce19d65e16898259fedc8bb6c6d79227b/arsitektur.jpeg" alt="Deskripsi Gambar" style="width:100%;">
 </p>
