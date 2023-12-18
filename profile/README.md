@@ -1,15 +1,15 @@
 ## Team Members – CH2-PS403
-| Member    | Student ID    | Path    | University    |
-|------------|------------|------------|------------|
-| Christoph Lawrence    | M002BSY1374      | Machine Learning     | Institut Teknologi Bandung     |
-| Asido Septian Martua Nababan    | M010BSY0271     | Machine Learning     | Universitas Indonesia     |
-| Muhamad Haikal    | M010BSY1854     | Machine Learning     | Universitas Indonesia     |
-| Rizky Nurfaizi Widyanto    | C010BSY3205    | Cloud Computing    | Universitas Indonesia    |
-| Rachel Marta Maria    | C228BSX3601    | Cloud Computing    | Universitas Jenderal Achmad Yani Yogyakarta    |
-| Wahyu Romadhon    | A111BSY2944    | Mobile Development    | Institut Teknologi Adhi Tama Surabaya    |
-| Rahmat Andhityo Harviansyah    | A295BSY2168    | Mobile Development    | Universitas Pembangunan Nasional Veteran Jakarta    |
+| Student ID    |  Member   | Path    | University    | Contact    |
+|------------|------------|------------|------------|------------|
+| M002BSY1374    |  Christoph Lawrence     | Machine Learning | Institut Teknologi Bandung | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://id.linkedin.com/in/christoph-lawrence-8a277117b)  |
+| M010BSY0271    |  Asido Septian Martua Nababan    | Machine Learning     | Universitas Indonesia | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://id.linkedin.com/in/asido-nababan-3456351b7)  |
+| M010BSY1854    |  Muhamad Haikal    | Machine Learning     | Universitas Indonesia | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://id.linkedin.com/in/mhmadhaikal)  |
+| C010BSY3205    |  Rizky Nurfaizi Widyanto   | Cloud Computing    | Universitas Indonesia | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://id.linkedin.com/in/rizky-nurfaizi-widyanto-1bb5a520a)  |
+| C228BSX3601    |  Rachel Marta Maria   | Cloud Computing    | Universitas Jenderal Achmad Yani Yogyakarta    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://id.linkedin.com/in/rachelmartam/in)  |
+| A111BSY2944    |  Wahyu Romadhon   | Mobile Development    | Institut Teknologi Adhi Tama Surabaya    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  |
+| A295BSY2168    |  Rahmat Andhityo Harviansyah   | Mobile Development    | Universitas Pembangunan Nasional Veteran Jakarta    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://id.linkedin.com/in/rahmat-andhityo-49a928276)  |
 
-## PocketGrow Apps
+## PocketGrow App
 <!--
 <p align="center">
   <img src="https://github.com/azvadennys/iFiCam-C23-PS113-Bangkit/blob/f7421b6ce19d65e16898259fedc8bb6c6d79227b/overview.png" alt="Deskripsi Gambar" style="width:100%;">
@@ -18,6 +18,12 @@
 
 PocketGrow is an application that provides a future projection of user net worth, allows users to manage their income and expenses efficiently with stock market news updates. 
 With our app, we aim to make financial management and investment decision-making accessible and user-friendly for everyone.
+
+## PocketGrow Features
+
+- <b>Financial Projections</b> can generate detailed financial projections that include income calculations after considering interest, set financial targets and milestones to track progress and provide users with actionable recommendations to help achieve user financial goals
+- <b>Expense-Income Tracker</b> feature for tracking income sources and expenses, categorize and analyze expenses for better financial management
+- <b>Financial News</b> section provides users with up-to-date information on financial markets, trends, and news
 
 <!--
 ## Download Link
@@ -56,18 +62,12 @@ Her is the [link](https://drive.google.com/file/d/1D9VnVlOrnf36frvaY7sOnzBJxV0Sg
 </p>
 -->
 
-## PocketGrow Application Features
-
-- Financial Projections can generate detailed financial projections that include income calculations after considering interest, set financial targets and milestones to track progress and provide users with actionable recommendations to help achieve user financial goals
-- Expense-Income Tracker feature for tracking income sources and expenses, categorize and analyze expenses for better financial management
-- The Financial News section provides users with up-to-date information on financial markets, trends, and news
-
 ## Repository
 
   - [Machine Learning](https://github.com/PocketGrow/Machine-Learning)
   - [Cloud Computing](https://github.com/PocketGrow/Backend)
   - [Mobile Development](https://github.com/PocketGrow/Android)
-
+<!--
 ## Contact
 
 | Nama  | LinkedIn |
@@ -80,3 +80,4 @@ Her is the [link](https://drive.google.com/file/d/1D9VnVlOrnf36frvaY7sOnzBJxV0Sg
 | Wahyu Romadhon  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()  |
 | Rahmat Andhityo Harviansyah  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://id.linkedin.com/in/rahmat-andhityo-49a928276)  |
 
+-->
