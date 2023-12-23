@@ -66,7 +66,7 @@ Her is the [link](https://drive.google.com/file/d/1D9VnVlOrnf36frvaY7sOnzBJxV0Sg
 
   - [Machine Learning](https://github.com/PocketGrow/Machine-Learning)
   - [Cloud Computing](https://github.com/PocketGrow/Backend)
-  - [Mobile Development](https://github.com/PocketGrow/Android)
+  - [Mobile Development](https://github.com/PocketGrow/Dev-Android)
 <!--
 ## Contact
 
